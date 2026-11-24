@@ -1,0 +1,324 @@
+Customer_ID,Recency,Frequency,Monetary,Age,Primary_Region,Age_Group,R_Score,F_Score,M_Score,RFM_Total,Segment
+CUST_0001,5,7,5432.57,24,East,18-29 (Young Adults),4,4,4,12,VIP Champions
+CUST_0002,273,3,1120.84,54,East,45-59 (Established),1,2,2,5,At-Risk / Occasional
+CUST_0003,52,1,702.28,53,West,45-59 (Established),3,1,1,5,At-Risk / Occasional
+CUST_0004,27,4,3885.04,44,West,30-44 (Prime Professionals),4,3,4,11,VIP Champions
+CUST_0005,70,5,3312.77,54,East,45-59 (Established),3,4,4,11,VIP Champions
+CUST_0006,28,4,1192.6399999999999,41,South,30-44 (Prime Professionals),4,3,2,9,Loyal Regulars
+CUST_0007,52,2,733.65,28,East,18-29 (Young Adults),3,1,1,5,At-Risk / Occasional
+CUST_0008,58,3,2143.96,42,West,30-44 (Prime Professionals),3,2,3,8,Loyal Regulars
+CUST_0009,154,3,2832.67,49,East,45-59 (Established),2,2,3,7,Loyal Regulars
+CUST_0010,14,3,2917.46,53,East,45-59 (Established),4,2,4,10,VIP Champions
+CUST_0012,67,3,1224.97,43,East,30-44 (Prime Professionals),3,2,2,7,Loyal Regulars
+CUST_0013,13,5,2697.25,34,East,30-44 (Prime Professionals),4,4,3,11,VIP Champions
+CUST_0014,53,4,2839.24,44,North,30-44 (Prime Professionals),3,3,3,9,Loyal Regulars
+CUST_0015,49,3,2197.82,40,East,30-44 (Prime Professionals),3,2,3,8,Loyal Regulars
+CUST_0016,191,1,375.46,55,North,45-59 (Established),1,1,1,3,Hibernating / Low-Value
+CUST_0017,250,1,189.88,31,North,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0018,241,1,459.75,66,North,60+ (Seniors),1,1,1,3,Hibernating / Low-Value
+CUST_0019,142,2,688.51,39,East,30-44 (Prime Professionals),2,1,1,4,Hibernating / Low-Value
+CUST_0020,20,3,1311.26,21,North,18-29 (Young Adults),4,2,2,8,Loyal Regulars
+CUST_0021,350,2,241.0,24,East,18-29 (Young Adults),1,1,1,3,Hibernating / Low-Value
+CUST_0022,69,3,3369.81,66,South,60+ (Seniors),3,2,4,9,Loyal Regulars
+CUST_0023,104,2,2347.43,57,South,45-59 (Established),2,1,3,6,At-Risk / Occasional
+CUST_0025,44,3,1924.7900000000002,43,East,30-44 (Prime Professionals),3,2,3,8,Loyal Regulars
+CUST_0026,23,3,2332.85,18,North,18-29 (Young Adults),4,2,3,9,Loyal Regulars
+CUST_0027,254,1,819.48,39,East,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0028,48,5,3310.62,68,South,60+ (Seniors),3,4,4,11,VIP Champions
+CUST_0029,149,2,1354.6100000000001,45,North,45-59 (Established),2,1,2,5,At-Risk / Occasional
+CUST_0030,84,1,1778.85,34,South,30-44 (Prime Professionals),2,1,2,5,At-Risk / Occasional
+CUST_0031,30,1,653.76,64,West,60+ (Seniors),4,1,1,6,At-Risk / Occasional
+CUST_0033,187,3,1331.51,30,East,30-44 (Prime Professionals),1,2,2,5,At-Risk / Occasional
+CUST_0034,40,4,1533.1399999999999,18,West,18-29 (Young Adults),3,3,2,8,Loyal Regulars
+CUST_0035,6,6,5728.280000000001,32,West,30-44 (Prime Professionals),4,4,4,12,VIP Champions
+CUST_0036,29,4,1989.12,22,East,18-29 (Young Adults),4,3,3,10,VIP Champions
+CUST_0037,172,3,1790.5700000000002,47,East,45-59 (Established),1,2,2,5,At-Risk / Occasional
+CUST_0038,9,3,2195.9,30,West,30-44 (Prime Professionals),4,2,3,9,Loyal Regulars
+CUST_0039,47,7,4330.47,54,East,45-59 (Established),3,4,4,11,VIP Champions
+CUST_0040,30,1,1041.1,40,East,30-44 (Prime Professionals),4,1,2,7,Loyal Regulars
+CUST_0041,120,3,1055.4099999999999,62,North,60+ (Seniors),2,2,2,6,At-Risk / Occasional
+CUST_0042,39,3,1767.6,54,South,45-59 (Established),3,2,2,7,Loyal Regulars
+CUST_0043,77,2,1674.6,60,East,60+ (Seniors),3,1,2,6,At-Risk / Occasional
+CUST_0044,135,4,2613.28,35,West,30-44 (Prime Professionals),2,3,3,8,Loyal Regulars
+CUST_0045,310,1,112.58,43,West,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0046,66,3,811.47,69,East,60+ (Seniors),3,2,1,6,At-Risk / Occasional
+CUST_0047,19,5,2652.59,42,North,30-44 (Prime Professionals),4,4,3,11,VIP Champions
+CUST_0048,61,3,2630.29,64,North,60+ (Seniors),3,2,3,8,Loyal Regulars
+CUST_0049,250,2,554.49,25,East,18-29 (Young Adults),1,1,1,3,Hibernating / Low-Value
+CUST_0050,344,1,577.94,44,North,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0051,71,6,3657.33,48,South,45-59 (Established),3,4,4,11,VIP Champions
+CUST_0052,164,3,1171.9,44,North,30-44 (Prime Professionals),1,2,2,5,At-Risk / Occasional
+CUST_0053,79,7,5757.639999999999,44,North,30-44 (Prime Professionals),2,4,4,10,VIP Champions
+CUST_0054,94,7,5345.0599999999995,59,North,45-59 (Established),2,4,4,10,VIP Champions
+CUST_0055,352,1,338.76,21,South,18-29 (Young Adults),1,1,1,3,Hibernating / Low-Value
+CUST_0056,56,2,2285.0699999999997,51,East,45-59 (Established),3,1,3,7,Loyal Regulars
+CUST_0057,160,1,887.46,26,North,18-29 (Young Adults),1,1,1,3,Hibernating / Low-Value
+CUST_0058,136,6,3970.09,46,West,45-59 (Established),2,4,4,10,VIP Champions
+CUST_0059,355,1,952.0,51,North,45-59 (Established),1,1,1,3,Hibernating / Low-Value
+CUST_0060,4,3,779.0,26,South,18-29 (Young Adults),4,2,1,7,Loyal Regulars
+CUST_0061,60,2,1297.74,58,South,45-59 (Established),3,1,2,6,At-Risk / Occasional
+CUST_0062,25,4,2769.1000000000004,51,West,45-59 (Established),4,3,3,10,VIP Champions
+CUST_0063,109,4,1811.98,38,North,30-44 (Prime Professionals),2,3,2,7,Loyal Regulars
+CUST_0065,112,3,2515.8900000000003,20,South,18-29 (Young Adults),2,2,3,7,Loyal Regulars
+CUST_0066,90,2,2201.27,68,North,60+ (Seniors),2,1,3,6,At-Risk / Occasional
+CUST_0067,43,1,476.2,33,South,30-44 (Prime Professionals),3,1,1,5,At-Risk / Occasional
+CUST_0068,43,2,1068.08,20,North,18-29 (Young Adults),3,1,2,6,At-Risk / Occasional
+CUST_0069,8,5,4482.74,55,North,45-59 (Established),4,4,4,12,VIP Champions
+CUST_0070,34,2,710.4799999999999,43,South,30-44 (Prime Professionals),4,1,1,6,At-Risk / Occasional
+CUST_0072,98,2,1075.8,45,East,45-59 (Established),2,1,2,5,At-Risk / Occasional
+CUST_0073,64,1,757.7,51,East,45-59 (Established),3,1,1,5,At-Risk / Occasional
+CUST_0074,154,1,48.39,27,East,18-29 (Young Adults),2,1,1,4,Hibernating / Low-Value
+CUST_0075,27,4,5433.84,55,West,45-59 (Established),4,3,4,11,VIP Champions
+CUST_0076,6,4,1712.25,53,East,45-59 (Established),4,3,2,9,Loyal Regulars
+CUST_0078,54,3,2357.0,62,South,60+ (Seniors),3,2,3,8,Loyal Regulars
+CUST_0080,133,1,855.86,62,North,60+ (Seniors),2,1,1,4,Hibernating / Low-Value
+CUST_0081,83,4,3774.32,59,East,45-59 (Established),2,3,4,9,Loyal Regulars
+CUST_0082,116,1,1435.85,44,North,30-44 (Prime Professionals),2,1,2,5,At-Risk / Occasional
+CUST_0083,39,2,110.14,20,East,18-29 (Young Adults),3,1,1,5,At-Risk / Occasional
+CUST_0084,12,2,550.35,40,North,30-44 (Prime Professionals),4,1,1,6,At-Risk / Occasional
+CUST_0085,102,1,2002.4,30,South,30-44 (Prime Professionals),2,1,3,6,At-Risk / Occasional
+CUST_0086,46,3,1627.88,23,West,18-29 (Young Adults),3,2,2,7,Loyal Regulars
+CUST_0088,361,1,738.69,64,South,60+ (Seniors),1,1,1,3,Hibernating / Low-Value
+CUST_0089,207,2,1618.48,21,North,18-29 (Young Adults),1,1,2,4,Hibernating / Low-Value
+CUST_0090,18,4,4090.55,57,East,45-59 (Established),4,3,4,11,VIP Champions
+CUST_0091,143,1,239.38,69,North,60+ (Seniors),2,1,1,4,Hibernating / Low-Value
+CUST_0092,70,4,747.96,67,North,60+ (Seniors),3,3,1,7,Loyal Regulars
+CUST_0093,72,2,769.69,29,North,18-29 (Young Adults),3,1,1,5,At-Risk / Occasional
+CUST_0094,9,3,776.91,24,East,18-29 (Young Adults),4,2,1,7,Loyal Regulars
+CUST_0095,8,6,3894.7200000000003,35,North,30-44 (Prime Professionals),4,4,4,12,VIP Champions
+CUST_0096,173,5,3240.09,62,West,60+ (Seniors),1,4,4,9,Loyal Regulars
+CUST_0097,253,2,2229.68,67,North,60+ (Seniors),1,1,3,5,At-Risk / Occasional
+CUST_0098,87,3,3332.79,47,South,45-59 (Established),2,2,4,8,Loyal Regulars
+CUST_0099,106,9,6291.86,68,North,60+ (Seniors),2,4,4,10,VIP Champions
+CUST_0100,166,4,3707.74,37,North,30-44 (Prime Professionals),1,3,4,8,Loyal Regulars
+CUST_0101,11,6,5213.25,39,South,30-44 (Prime Professionals),4,4,4,12,VIP Champions
+CUST_0103,90,4,3789.4,50,North,45-59 (Established),2,3,4,9,Loyal Regulars
+CUST_0104,236,2,2717.65,19,North,18-29 (Young Adults),1,1,3,5,At-Risk / Occasional
+CUST_0105,106,2,1564.48,64,North,60+ (Seniors),2,1,2,5,At-Risk / Occasional
+CUST_0106,83,3,2458.93,54,North,45-59 (Established),2,2,3,7,Loyal Regulars
+CUST_0107,61,2,2620.7,51,North,45-59 (Established),3,1,3,7,Loyal Regulars
+CUST_0108,220,2,729.96,49,South,45-59 (Established),1,1,1,3,Hibernating / Low-Value
+CUST_0109,42,2,2681.06,49,South,45-59 (Established),3,1,3,7,Loyal Regulars
+CUST_0111,40,5,2212.23,57,North,45-59 (Established),3,4,3,10,VIP Champions
+CUST_0112,34,4,5549.01,40,South,30-44 (Prime Professionals),4,3,4,11,VIP Champions
+CUST_0113,19,7,5518.29,69,East,60+ (Seniors),4,4,4,12,VIP Champions
+CUST_0114,177,2,1291.9,44,North,30-44 (Prime Professionals),1,1,2,4,Hibernating / Low-Value
+CUST_0115,179,1,36.04,44,East,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0116,244,3,462.98,67,South,60+ (Seniors),1,2,1,4,Hibernating / Low-Value
+CUST_0117,136,2,951.48,44,North,30-44 (Prime Professionals),2,1,1,4,Hibernating / Low-Value
+CUST_0118,22,4,4163.8099999999995,30,South,30-44 (Prime Professionals),4,3,4,11,VIP Champions
+CUST_0119,49,2,1983.66,37,South,30-44 (Prime Professionals),3,1,3,7,Loyal Regulars
+CUST_0120,214,2,345.84000000000003,51,East,45-59 (Established),1,1,1,3,Hibernating / Low-Value
+CUST_0121,63,2,1219.41,68,North,60+ (Seniors),3,1,2,6,At-Risk / Occasional
+CUST_0122,71,6,3854.49,54,South,45-59 (Established),3,4,4,11,VIP Champions
+CUST_0123,287,1,200.96,44,South,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0124,216,2,2173.2799999999997,43,North,30-44 (Prime Professionals),1,1,3,5,At-Risk / Occasional
+CUST_0125,225,1,1462.15,43,North,30-44 (Prime Professionals),1,1,2,4,Hibernating / Low-Value
+CUST_0126,46,6,4324.0599999999995,49,South,45-59 (Established),3,4,4,11,VIP Champions
+CUST_0127,56,3,2915.96,41,East,30-44 (Prime Professionals),3,2,4,9,Loyal Regulars
+CUST_0128,242,4,2673.22,50,East,45-59 (Established),1,3,3,7,Loyal Regulars
+CUST_0129,210,3,2249.18,68,East,60+ (Seniors),1,3,3,7,Loyal Regulars
+CUST_0130,12,3,3689.86,30,South,30-44 (Prime Professionals),4,3,4,11,VIP Champions
+CUST_0131,269,4,1240.3400000000001,46,East,45-59 (Established),1,3,2,6,At-Risk / Occasional
+CUST_0132,146,1,886.64,63,North,60+ (Seniors),2,1,1,4,Hibernating / Low-Value
+CUST_0133,22,5,4049.6,45,North,45-59 (Established),4,4,4,12,VIP Champions
+CUST_0134,26,3,4453.75,61,West,60+ (Seniors),4,3,4,11,VIP Champions
+CUST_0135,259,3,1113.75,47,North,45-59 (Established),1,3,2,6,At-Risk / Occasional
+CUST_0136,122,3,879.1800000000001,66,East,60+ (Seniors),2,3,1,6,At-Risk / Occasional
+CUST_0137,6,3,1084.98,44,South,30-44 (Prime Professionals),4,3,2,9,Loyal Regulars
+CUST_0138,14,2,1479.46,22,East,18-29 (Young Adults),4,1,2,7,Loyal Regulars
+CUST_0139,16,2,1062.6599999999999,63,East,60+ (Seniors),4,2,2,8,Loyal Regulars
+CUST_0140,19,2,264.38,21,East,18-29 (Young Adults),4,2,1,7,Loyal Regulars
+CUST_0141,141,2,737.0699999999999,25,South,18-29 (Young Adults),2,2,1,5,At-Risk / Occasional
+CUST_0142,18,2,1261.29,32,South,30-44 (Prime Professionals),4,2,2,8,Loyal Regulars
+CUST_0143,128,3,1218.29,28,East,18-29 (Young Adults),2,3,2,7,Loyal Regulars
+CUST_0144,126,7,5364.04,36,North,30-44 (Prime Professionals),2,4,4,10,VIP Champions
+CUST_0145,45,5,2743.19,59,West,45-59 (Established),3,4,3,10,VIP Champions
+CUST_0146,42,3,4354.13,24,North,18-29 (Young Adults),3,3,4,10,VIP Champions
+CUST_0147,130,6,4947.92,53,North,45-59 (Established),2,4,4,10,VIP Champions
+CUST_0148,139,3,1445.57,24,East,18-29 (Young Adults),2,3,2,7,Loyal Regulars
+CUST_0149,133,1,168.1,61,East,60+ (Seniors),2,1,1,4,Hibernating / Low-Value
+CUST_0150,35,3,2492.4,27,East,18-29 (Young Adults),4,3,3,10,VIP Champions
+CUST_0151,76,5,5187.18,22,North,18-29 (Young Adults),3,4,4,11,VIP Champions
+CUST_0152,32,6,1889.74,36,South,30-44 (Prime Professionals),4,4,3,11,VIP Champions
+CUST_0153,227,2,2919.3,55,South,45-59 (Established),1,2,4,7,Loyal Regulars
+CUST_0154,54,3,2381.6099999999997,62,East,60+ (Seniors),3,3,3,9,Loyal Regulars
+CUST_0155,73,2,1625.5500000000002,67,North,60+ (Seniors),3,2,2,7,Loyal Regulars
+CUST_0156,125,1,643.05,54,North,45-59 (Established),2,1,1,4,Hibernating / Low-Value
+CUST_0157,334,1,995.52,39,South,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0158,215,3,1699.34,47,East,45-59 (Established),1,3,2,6,At-Risk / Occasional
+CUST_0160,72,7,5317.01,37,North,30-44 (Prime Professionals),3,4,4,11,VIP Champions
+CUST_0161,15,5,2668.91,44,East,30-44 (Prime Professionals),4,4,3,11,VIP Champions
+CUST_0162,96,2,1432.28,26,Unknown,18-29 (Young Adults),2,2,2,6,At-Risk / Occasional
+CUST_0163,157,4,2021.11,38,East,30-44 (Prime Professionals),1,3,3,7,Loyal Regulars
+CUST_0164,123,3,3129.06,49,East,45-59 (Established),2,3,4,9,Loyal Regulars
+CUST_0165,103,3,2115.73,45,West,45-59 (Established),2,3,3,8,Loyal Regulars
+CUST_0166,85,1,264.18,22,North,18-29 (Young Adults),2,1,1,4,Hibernating / Low-Value
+CUST_0167,144,2,2983.46,28,South,18-29 (Young Adults),2,2,4,8,Loyal Regulars
+CUST_0168,12,3,2089.38,41,North,30-44 (Prime Professionals),4,3,3,10,VIP Champions
+CUST_0169,261,1,489.96,51,North,45-59 (Established),1,1,1,3,Hibernating / Low-Value
+CUST_0170,69,6,7030.15,44,South,30-44 (Prime Professionals),3,4,4,11,VIP Champions
+CUST_0171,314,1,1754.4,56,East,45-59 (Established),1,1,2,4,Hibernating / Low-Value
+CUST_0172,13,5,2818.95,34,North,30-44 (Prime Professionals),4,4,3,11,VIP Champions
+CUST_0173,23,6,5321.83,61,West,60+ (Seniors),4,4,4,12,VIP Champions
+CUST_0174,152,2,1236.93,35,South,30-44 (Prime Professionals),2,2,2,6,At-Risk / Occasional
+CUST_0175,353,1,630.35,18,East,18-29 (Young Adults),1,1,1,3,Hibernating / Low-Value
+CUST_0176,235,2,1560.94,18,East,18-29 (Young Adults),1,2,2,5,At-Risk / Occasional
+CUST_0177,107,4,1577.74,24,South,18-29 (Young Adults),2,3,2,7,Loyal Regulars
+CUST_0178,15,3,2229.2400000000002,52,West,45-59 (Established),4,3,3,10,VIP Champions
+CUST_0179,187,2,2042.09,53,North,45-59 (Established),1,2,3,6,At-Risk / Occasional
+CUST_0180,38,5,1915.9699999999998,25,East,18-29 (Young Adults),3,4,3,10,VIP Champions
+CUST_0181,159,2,1023.78,25,South,18-29 (Young Adults),1,2,1,4,Hibernating / Low-Value
+CUST_0182,144,1,1421.44,22,North,18-29 (Young Adults),2,1,2,5,At-Risk / Occasional
+CUST_0183,75,2,2287.59,64,North,60+ (Seniors),3,2,3,8,Loyal Regulars
+CUST_0184,74,3,1902.73,29,North,18-29 (Young Adults),3,3,3,9,Loyal Regulars
+CUST_0185,202,1,210.51,62,North,60+ (Seniors),1,1,1,3,Hibernating / Low-Value
+CUST_0186,122,3,1591.67,44,North,30-44 (Prime Professionals),2,3,2,7,Loyal Regulars
+CUST_0187,53,5,2145.13,63,South,60+ (Seniors),3,4,3,10,VIP Champions
+CUST_0188,244,3,1797.0,69,West,60+ (Seniors),1,3,2,6,At-Risk / Occasional
+CUST_0189,206,2,6844.84,54,South,45-59 (Established),1,2,4,7,Loyal Regulars
+CUST_0190,137,6,3022.42,55,East,45-59 (Established),2,4,4,10,VIP Champions
+CUST_0191,137,3,3083.9,23,West,18-29 (Young Adults),2,3,4,9,Loyal Regulars
+CUST_0192,49,7,4989.48,64,North,60+ (Seniors),3,4,4,11,VIP Champions
+CUST_0194,24,3,1299.21,43,East,30-44 (Prime Professionals),4,3,2,9,Loyal Regulars
+CUST_0195,73,3,1925.47,46,East,45-59 (Established),3,3,3,9,Loyal Regulars
+CUST_0196,178,2,2181.84,21,Unknown,18-29 (Young Adults),1,2,3,6,At-Risk / Occasional
+CUST_0197,105,2,1330.1,49,East,45-59 (Established),2,2,2,6,At-Risk / Occasional
+CUST_0198,34,4,4010.1400000000003,31,East,30-44 (Prime Professionals),4,3,4,11,VIP Champions
+CUST_0199,279,1,279.16,54,West,45-59 (Established),1,1,1,3,Hibernating / Low-Value
+CUST_0201,119,3,1405.15,45,East,45-59 (Established),2,3,2,7,Loyal Regulars
+CUST_0202,48,4,3375.38,66,East,60+ (Seniors),3,4,4,11,VIP Champions
+CUST_0203,24,3,2186.2400000000002,33,West,30-44 (Prime Professionals),4,3,3,10,VIP Champions
+CUST_0204,199,1,547.84,35,South,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0205,78,2,3660.44,44,North,30-44 (Prime Professionals),3,2,4,9,Loyal Regulars
+CUST_0206,164,2,1378.77,47,East,45-59 (Established),1,2,2,5,At-Risk / Occasional
+CUST_0207,57,3,1748.52,45,West,45-59 (Established),3,3,2,8,Loyal Regulars
+CUST_0208,262,3,2946.41,39,North,30-44 (Prime Professionals),1,3,4,8,Loyal Regulars
+CUST_0212,20,3,555.62,33,North,30-44 (Prime Professionals),4,3,1,8,Loyal Regulars
+CUST_0213,132,2,2306.41,65,North,60+ (Seniors),2,2,3,7,Loyal Regulars
+CUST_0214,55,3,846.11,52,East,45-59 (Established),3,3,1,7,Loyal Regulars
+CUST_0215,157,5,3654.9,18,East,18-29 (Young Adults),1,4,4,9,Loyal Regulars
+CUST_0216,54,2,756.28,28,West,18-29 (Young Adults),3,2,1,6,At-Risk / Occasional
+CUST_0217,109,6,1986.31,66,North,60+ (Seniors),2,4,3,9,Loyal Regulars
+CUST_0218,65,5,2894.45,21,East,18-29 (Young Adults),3,4,4,11,VIP Champions
+CUST_0220,27,7,3546.3799999999997,64,North,60+ (Seniors),4,4,4,12,VIP Champions
+CUST_0221,156,1,512.37,34,West,30-44 (Prime Professionals),2,1,1,4,Hibernating / Low-Value
+CUST_0222,94,3,560.42,64,East,60+ (Seniors),2,3,1,6,At-Risk / Occasional
+CUST_0223,28,5,5683.700000000001,48,East,45-59 (Established),4,4,4,12,VIP Champions
+CUST_0224,111,4,1634.98,33,South,30-44 (Prime Professionals),2,4,2,8,Loyal Regulars
+CUST_0225,20,4,3196.64,44,East,30-44 (Prime Professionals),4,4,4,12,VIP Champions
+CUST_0226,36,3,2033.04,48,North,45-59 (Established),3,3,3,9,Loyal Regulars
+CUST_0227,50,5,2354.62,57,East,45-59 (Established),3,4,3,10,VIP Champions
+CUST_0228,41,2,1317.74,51,South,45-59 (Established),3,2,2,7,Loyal Regulars
+CUST_0229,2,6,3307.75,52,North,45-59 (Established),4,4,4,12,VIP Champions
+CUST_0230,153,2,746.5799999999999,38,East,30-44 (Prime Professionals),2,2,1,5,At-Risk / Occasional
+CUST_0231,47,5,2305.9300000000003,56,East,45-59 (Established),3,4,3,10,VIP Champions
+CUST_0233,43,8,6799.64,34,North,30-44 (Prime Professionals),3,4,4,11,VIP Champions
+CUST_0234,300,1,310.67,64,West,60+ (Seniors),1,1,1,3,Hibernating / Low-Value
+CUST_0235,78,2,1611.02,43,West,30-44 (Prime Professionals),3,2,2,7,Loyal Regulars
+CUST_0236,7,4,1011.6600000000001,55,North,45-59 (Established),4,4,1,9,Loyal Regulars
+CUST_0237,206,3,2457.17,21,South,18-29 (Young Adults),1,3,3,7,Loyal Regulars
+CUST_0238,51,3,2965.8,58,North,45-59 (Established),3,3,4,10,VIP Champions
+CUST_0239,51,5,3058.35,58,North,45-59 (Established),3,4,4,11,VIP Champions
+CUST_0240,77,3,3062.3,52,East,45-59 (Established),3,3,4,10,VIP Champions
+CUST_0241,317,1,1074.84,51,North,45-59 (Established),1,1,2,4,Hibernating / Low-Value
+CUST_0242,114,4,5752.469999999999,63,East,60+ (Seniors),2,4,4,10,VIP Champions
+CUST_0243,30,2,1380.8,29,East,18-29 (Young Adults),4,2,2,8,Loyal Regulars
+CUST_0244,352,1,194.73,66,East,60+ (Seniors),1,1,1,3,Hibernating / Low-Value
+CUST_0246,195,2,954.74,22,East,18-29 (Young Adults),1,2,1,4,Hibernating / Low-Value
+CUST_0247,31,6,7657.86,59,East,45-59 (Established),4,4,4,12,VIP Champions
+CUST_0249,63,4,2598.7400000000002,49,West,45-59 (Established),3,4,3,10,VIP Champions
+CUST_0250,97,3,2456.46,44,South,30-44 (Prime Professionals),2,3,3,8,Loyal Regulars
+CUST_0251,93,2,1234.3,56,East,45-59 (Established),2,2,2,6,At-Risk / Occasional
+CUST_0252,89,7,4404.63,34,East,30-44 (Prime Professionals),2,4,4,10,VIP Champions
+CUST_0253,58,6,2603.3,66,East,60+ (Seniors),3,4,3,10,VIP Champions
+CUST_0254,197,3,1076.24,31,East,30-44 (Prime Professionals),1,3,2,6,At-Risk / Occasional
+CUST_0255,92,3,1890.75,38,West,30-44 (Prime Professionals),2,3,3,8,Loyal Regulars
+CUST_0256,116,2,536.03,28,East,18-29 (Young Adults),2,2,1,5,At-Risk / Occasional
+CUST_0257,59,3,2198.27,36,East,30-44 (Prime Professionals),3,3,3,9,Loyal Regulars
+CUST_0258,190,2,2095.25,45,East,45-59 (Established),1,2,3,6,At-Risk / Occasional
+CUST_0259,15,6,3248.3399999999997,68,East,60+ (Seniors),4,4,4,12,VIP Champions
+CUST_0260,100,2,1965.3899999999999,44,West,30-44 (Prime Professionals),2,2,3,7,Loyal Regulars
+CUST_0261,14,2,1047.69,28,East,18-29 (Young Adults),4,2,2,8,Loyal Regulars
+CUST_0262,79,2,1281.47,64,South,60+ (Seniors),2,2,2,6,At-Risk / Occasional
+CUST_0263,276,1,201.64,53,North,45-59 (Established),1,1,1,3,Hibernating / Low-Value
+CUST_0264,40,6,2565.33,23,East,18-29 (Young Adults),3,4,3,10,VIP Champions
+CUST_0265,10,3,1268.9599999999998,60,West,60+ (Seniors),4,3,2,9,Loyal Regulars
+CUST_0267,3,3,1979.77,25,North,18-29 (Young Adults),4,3,3,10,VIP Champions
+CUST_0268,95,5,4170.16,52,North,45-59 (Established),2,4,4,10,VIP Champions
+CUST_0269,216,1,640.84,37,West,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0270,2,2,1969.17,46,South,45-59 (Established),4,2,3,9,Loyal Regulars
+CUST_0271,222,4,3420.9100000000003,56,West,45-59 (Established),1,4,4,9,Loyal Regulars
+CUST_0272,125,2,1249.8100000000002,33,East,30-44 (Prime Professionals),2,2,2,6,At-Risk / Occasional
+CUST_0273,10,5,2222.96,25,North,18-29 (Young Adults),4,4,3,11,VIP Champions
+CUST_0274,50,2,992.91,62,East,60+ (Seniors),3,2,1,6,At-Risk / Occasional
+CUST_0275,21,3,2247.2200000000003,65,East,60+ (Seniors),4,3,3,10,VIP Champions
+CUST_0277,35,6,5165.7,48,East,45-59 (Established),4,4,4,12,VIP Champions
+CUST_0278,204,1,430.24,28,North,18-29 (Young Adults),1,1,1,3,Hibernating / Low-Value
+CUST_0279,170,2,2160.08,35,South,30-44 (Prime Professionals),1,2,3,6,At-Risk / Occasional
+CUST_0280,191,5,2826.66,58,East,45-59 (Established),1,4,3,8,Loyal Regulars
+CUST_0281,74,2,1400.65,32,North,30-44 (Prime Professionals),3,2,2,7,Loyal Regulars
+CUST_0282,37,3,1905.48,27,East,18-29 (Young Adults),3,3,3,9,Loyal Regulars
+CUST_0283,108,5,3901.91,25,North,18-29 (Young Adults),2,4,4,10,VIP Champions
+CUST_0284,165,4,2183.69,34,North,30-44 (Prime Professionals),1,4,3,8,Loyal Regulars
+CUST_0285,82,3,584.3299999999999,51,East,45-59 (Established),2,3,1,6,At-Risk / Occasional
+CUST_0286,87,5,1797.27,55,North,45-59 (Established),2,4,2,8,Loyal Regulars
+CUST_0288,99,3,2328.79,55,East,45-59 (Established),2,3,3,8,Loyal Regulars
+CUST_0289,35,5,3331.3199999999997,61,East,60+ (Seniors),4,4,4,12,VIP Champions
+CUST_0290,194,2,1356.8400000000001,30,East,30-44 (Prime Professionals),1,2,2,5,At-Risk / Occasional
+CUST_0292,59,2,1524.12,67,North,60+ (Seniors),3,2,2,7,Loyal Regulars
+CUST_0293,16,2,1412.43,53,East,45-59 (Established),4,2,2,8,Loyal Regulars
+CUST_0294,50,4,2957.0699999999997,60,East,60+ (Seniors),3,4,4,11,VIP Champions
+CUST_0295,296,1,969.6,66,East,60+ (Seniors),1,1,1,3,Hibernating / Low-Value
+CUST_0296,5,2,1207.18,49,East,45-59 (Established),4,2,2,8,Loyal Regulars
+CUST_0298,276,1,623.8,26,South,18-29 (Young Adults),1,1,1,3,Hibernating / Low-Value
+CUST_0299,235,1,212.46,23,South,18-29 (Young Adults),1,1,1,3,Hibernating / Low-Value
+CUST_0300,23,2,136.20999999999998,44,East,30-44 (Prime Professionals),4,2,1,7,Loyal Regulars
+CUST_0301,65,3,1867.61,68,East,60+ (Seniors),3,3,2,8,Loyal Regulars
+CUST_0302,183,2,1225.6399999999999,40,North,30-44 (Prime Professionals),1,2,2,5,At-Risk / Occasional
+CUST_0303,57,4,4351.29,44,South,30-44 (Prime Professionals),3,4,4,11,VIP Champions
+CUST_0304,252,5,2302.04,30,North,30-44 (Prime Professionals),1,4,3,8,Loyal Regulars
+CUST_0305,8,3,1383.61,27,South,18-29 (Young Adults),4,3,2,9,Loyal Regulars
+CUST_0306,88,3,3311.17,60,East,60+ (Seniors),2,3,4,9,Loyal Regulars
+CUST_0307,301,2,420.18,22,North,18-29 (Young Adults),1,2,1,4,Hibernating / Low-Value
+CUST_0308,86,3,2502.78,18,West,18-29 (Young Adults),2,3,3,8,Loyal Regulars
+CUST_0309,360,1,300.54,35,East,30-44 (Prime Professionals),1,1,1,3,Hibernating / Low-Value
+CUST_0310,262,2,1134.6200000000001,40,East,30-44 (Prime Professionals),1,2,2,5,At-Risk / Occasional
+CUST_0311,31,3,650.85,47,East,45-59 (Established),4,3,1,8,Loyal Regulars
+CUST_0312,53,3,655.7,27,North,18-29 (Young Adults),3,3,1,7,Loyal Regulars
+CUST_0313,93,2,290.95,44,North,30-44 (Prime Professionals),2,2,1,5,At-Risk / Occasional
+CUST_0314,178,3,1624.76,28,West,18-29 (Young Adults),1,3,2,6,At-Risk / Occasional
+CUST_0315,36,3,1424.6,62,East,60+ (Seniors),3,3,2,8,Loyal Regulars
+CUST_0316,1,4,1116.53,43,North,30-44 (Prime Professionals),4,4,2,10,VIP Champions
+CUST_0317,69,4,3065.03,27,West,18-29 (Young Adults),3,4,4,11,VIP Champions
+CUST_0318,7,5,1054.6599999999999,35,South,30-44 (Prime Professionals),4,4,2,10,VIP Champions
+CUST_0319,11,3,2409.6099999999997,44,East,30-44 (Prime Professionals),4,3,3,10,VIP Champions
+CUST_0320,4,5,2164.62,62,South,60+ (Seniors),4,4,3,11,VIP Champions
+CUST_0321,11,3,2311.94,53,East,45-59 (Established),4,3,3,10,VIP Champions
+CUST_0322,28,2,1212.25,36,West,30-44 (Prime Professionals),4,2,2,8,Loyal Regulars
+CUST_0323,186,3,2863.11,58,East,45-59 (Established),1,3,4,8,Loyal Regulars
+CUST_0324,21,2,882.24,38,South,30-44 (Prime Professionals),4,2,1,7,Loyal Regulars
+CUST_0325,192,3,1396.7399999999998,47,East,45-59 (Established),1,3,2,6,At-Risk / Occasional
+CUST_0326,22,4,3959.13,57,North,45-59 (Established),4,4,4,12,VIP Champions
+CUST_0327,147,3,3571.75,51,West,45-59 (Established),2,3,4,9,Loyal Regulars
+CUST_0328,3,2,1598.2,41,North,30-44 (Prime Professionals),4,2,2,8,Loyal Regulars
+CUST_0329,10,2,910.9,20,East,18-29 (Young Adults),4,2,1,7,Loyal Regulars
+CUST_0330,81,3,1918.73,46,North,45-59 (Established),2,3,3,8,Loyal Regulars
+CUST_0331,33,4,2241.1600000000003,18,North,18-29 (Young Adults),4,4,3,11,VIP Champions
+CUST_0333,16,1,158.62,51,East,45-59 (Established),4,1,1,6,At-Risk / Occasional
+CUST_0334,7,1,349.71,37,South,30-44 (Prime Professionals),4,1,1,6,At-Risk / Occasional
+CUST_0335,24,4,3060.9,27,East,18-29 (Young Adults),4,4,4,12,VIP Champions
+CUST_0336,75,2,772.53,44,North,30-44 (Prime Professionals),3,2,1,6,At-Risk / Occasional
+CUST_0337,60,2,1992.6299999999999,34,North,30-44 (Prime Professionals),3,2,3,8,Loyal Regulars
+CUST_0338,87,4,1296.52,22,West,18-29 (Young Adults),2,4,2,8,Loyal Regulars
+CUST_0339,149,2,2593.42,30,East,30-44 (Prime Professionals),2,2,3,7,Loyal Regulars
+CUST_0340,80,5,3822.83,68,East,60+ (Seniors),2,4,4,10,VIP Champions
+CUST_0341,91,3,1367.9299999999998,45,East,45-59 (Established),2,3,2,7,Loyal Regulars
+CUST_0342,108,6,2681.3199999999997,34,East,30-44 (Prime Professionals),2,4,3,9,Loyal Regulars
+CUST_0343,292,1,398.19,48,North,45-59 (Established),1,1,1,3,Hibernating / Low-Value
+CUST_0344,331,2,1428.43,52,East,45-59 (Established),1,2,2,5,At-Risk / Occasional
+CUST_0345,332,2,1530.8,22,North,18-29 (Young Adults),1,2,2,5,At-Risk / Occasional
+CUST_0346,66,7,5763.18,44,North,30-44 (Prime Professionals),3,4,4,11,VIP Champions
+CUST_0347,86,1,1017.51,28,South,18-29 (Young Adults),2,1,1,4,Hibernating / Low-Value
+CUST_0348,98,4,4299.12,41,South,30-44 (Prime Professionals),2,4,4,10,VIP Champions
+CUST_0349,3,6,5770.7300000000005,41,East,30-44 (Prime Professionals),4,4,4,12,VIP Champions
